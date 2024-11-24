@@ -57,7 +57,45 @@ Para um melhor funcionamento da biblioteca Googletrans, recomendamos que você u
 
 Você pode ver a documentação oficial da biblioteca Googletrans por este link.
 
-RESPOSTA DO DESAFIO DO DIA 1
+---
+### RESPOSTA DO DESAFIO DO DIA 1
 
-- Solução do dia 1[@https://empresas.alura.com.br/e3t/Ctc/I8+113/d2z6gD04/VW4PVG4b1CjZW2kK8vF4ymkF8W861hN75nLd1pN4gTlKF3lYMRW7Y8-PT6lZ3mpW8GjZCM3w9FpcW1qKd4w6CvM5bW2v0qSJ7-BsbbVQpmxg911DHZW7qK9J198BTFdW8_yG2n299WrbW5KbFtG986Cg4W2sNFmg15qvl4N9gtzP47cJ9-W8VYpj88n2s1zW6-VDHS78YydcW3zPyLY8GP_9yW601Lh46rwxf3W1T6LTk7m4T51W47cVfr1ZCYH_W8K4SKR43nx22VRdLWW5929JqW8S-YDy7Cbvr8N4pS3XybpKBnW3h_Jcs4WDhW6W3Hhwmj9g4Wt7W2ld1zZ107Zh1W1gFfqQ77mZS6W8WqybW37s0Z6W8mNlGf48yGP_W6tclXD4Lg3KFf61Vddj04]
+- [Solução do dia 1](https://empresas.alura.com.br/e3t/Ctc/I8+113/d2z6gD04/VW4PVG4b1CjZW2kK8vF4ymkF8W861hN75nLd1pN4gTlKF3lYMRW7Y8-PT6lZ3mpW8GjZCM3w9FpcW1qKd4w6CvM5bW2v0qSJ7-BsbbVQpmxg911DHZW7qK9J198BTFdW8_yG2n299WrbW5KbFtG986Cg4W2sNFmg15qvl4N9gtzP47cJ9-W8VYpj88n2s1zW6-VDHS78YydcW3zPyLY8GP_9yW601Lh46rwxf3W1T6LTk7m4T51W47cVfr1ZCYH_W8K4SKR43nx22VRdLWW5929JqW8S-YDy7Cbvr8N4pS3XybpKBnW3h_Jcs4WDhW6W3Hhwmj9g4Wt7W2ld1zZ107Zh1W1gFfqQ77mZS6W8WqybW37s0Z6W8mNlGf48yGP_W6tclXD4Lg3KFf61Vddj04)
 
+---
+## DAY 3
+Você já está no dia 3 do #7DaysOfCode!
+
+
+No desafio de hoje, você vai dar o primeiro mergulho com o framework Django! Ele é muito usado para o back-end com Python.
+
+
+Para fazer o desafio de hoje, você deverá:
+
+* Iniciar um projeto Django com o comando startproject e criar um app (aplicativo)
+* Fazer as configurações necessárias para registro do app.
+* Executar o projeto para que a página inicial do Django seja mostrada, conforme abaixo:
+
+---
+### DICA
+
+O comando para iniciar um projeto no Django é:
+
+* django-admin startproject <nome_do_projeto>.
+* Substitua “<nome_do_projeto>” para outro que julgar melhor para o desafio. 
+* Já, para criar o app (aplicação), você pode usar este comando:
+* django-admin startapp <nome_do_app>
+
+---
+
+### EXTRA
+
+Para verificar se não há problemas na configuração geral ou erros comuns dentro do seu projeto, você pode usar o seguinte comando:
+
+* **python manage.py check**
+---
+### RESPOSTA DO DESAFIO DO DIA 2
+
+- [Solução do dia 2](https://empresas.alura.com.br/e3t/Ctc/I8+113/d2z6gD04/VV-G1V8lYkZnW3c72HC6XdQW7W7dH9HJ5nNmNqN84393W3lYMRW7Y8-PT6lZ3lGN1QBnMmVtr03W3zL6j397ttW9W8_1g-q89lKPvW6zRskP9c3WbmVpysRr95Lwc7W5Hg9BG54M3HZVgKSMZ7BP51TN7tryKRJSdxcW6_PG7T3Ymt9FVDjNXw8810bXF5Ml_jRZHByW6fRQNs4Kf5LpW5VF2c55y-zpnW79Gbdm6tV5htW4VmdjC1V1w0tVcFrt16fMqZcVFbcJX3VPb1wW1yCMXN59FpD8W7wT2PY7qGfcqW3zwdJr7tH1YKW8ZN4Cq8tcsZNW17Vhcy1xbKcFW5NqwbS4JpTBvW4hxwRb38NsPxVbP4pm2XCDmvW3gmfCT99-DG6f555vyl04)
+
+ 
